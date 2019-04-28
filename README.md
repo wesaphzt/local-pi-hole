@@ -1,4 +1,4 @@
-# local-pi-hole
+# local-pi-hole.sh
 
 ## Overview
 
