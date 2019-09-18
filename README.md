@@ -54,7 +54,7 @@ Save and exit.
 
 ## Improvements
 
-Code improvements and refinements, reporting issues or general suggestions are welcomed, using the issue tracker https://github.com/wesaphzt/local-pi-hole/issues.
+To contribute, or to report issues please use the [Issue Tracker](https://github.com/wesaphzt/local-pi-hole/issues).
 
 ## License
 
